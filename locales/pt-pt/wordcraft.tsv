@@ -3061,3 +3061,163 @@ preview	Title	Título
 	“{text}” ({row}, {series}) isn't a number.	“{text}” ({row}, {series}) não é um número.
 	−Bin	−Bin
 	✓ None	✓ Nenhum
+	Add a language	Adicionar um idioma
+	Add a language…	Adicionar um idioma…
+	An installed Language pack is used after this folder.	Um pacote de idioma instalado é usado depois desta pasta.
+	Built in	Incorporado
+	Dictionary files	Ficheiros de dicionário
+	Downloading is off. Clicking Add a language… or Install turns it on: WordCraft then downloads language packs and fonts from GitHub.	As transferências estão desativadas. Clicar em Adicionar um idioma… ou em Instalar ativa-as: o WordCraft passa então a transferir pacotes de idioma e tipos de letra do GitHub.
+	Dutch, Nederlands or nl	Neerlandês, Nederlands ou nl
+	English, the languages of this document and every installed Language pack. Language packs add spelling dictionaries and hyphenation.	O inglês, os idiomas deste documento e todos os pacotes de idioma instalados. Os pacotes de idioma acrescentam dicionários ortográficos e hifenização.
+	Gets the list of Language packs, then this language's pack if there is one.	Obtém a lista de pacotes de idioma e depois o pacote deste idioma, se existir.
+	Grammar built in	Gramática incorporada
+	Install spelling ({size})	Instalar ortografia ({size})
+	Its dictionary couldn't be read: {reason}	Não foi possível ler o dicionário: {reason}
+	New blank documents are written in this language	Os novos documentos em branco são escritos neste idioma
+	No language matches your search.	Nenhum idioma corresponde à pesquisa.
+	No languages to show yet.	Ainda não há idiomas para mostrar.
+	Not available yet	Ainda não disponível
+	Search:	Pesquisar:
+	Set as Default Language	Definir como idioma predefinido
+	Set as default	Predefinir
+	System dictionary	Dicionário do sistema
+	Your languages	Os seus idiomas
+	Your own dictionary	O seu próprio dicionário
+	{language} (default)	{language} (predefinido)
+	Couldn't get the list of languages: {error}	Não foi possível obter a lista de idiomas: {error}
+	Couldn't install: {error}	Não foi possível instalar: {error}
+	Couldn't remove: {error}	Não foi possível remover: {error}
+	Couldn't turn on downloading: {error}	Não foi possível ativar as transferências: {error}
+	Get the list of languages again	Obter novamente a lista de idiomas
+	Getting the list of languages…	A obter a lista de idiomas…
+	Install	Instalar
+	Install ({size})	Instalar ({size})
+	Install Language Pack	Instalar pacote de idioma
+	Installed	Instalado
+	Installing turns on downloading of fonts and Language packs from GitHub.	Instalar ativa a transferência de tipos de letra e pacotes de idioma do GitHub.
+	Installing… {percent}%	A instalar… {percent}%
+	Language Packs	Pacotes de idioma
+	Language data	Dados linguísticos
+	Language packs aren't available in the browser	Os pacotes de idioma não estão disponíveis no navegador
+	Language packs aren't available in the browser.	Os pacotes de idioma não estão disponíveis no navegador.
+	Language packs come from a test source: {source}	Os pacotes de idioma vêm de uma origem de teste: {source}
+	Language packs need the font store folder, and there is none on this computer.	Os pacotes de idioma precisam da pasta de armazenamento de tipos de letra, que não existe neste computador.
+	Licence: {licence}. Source: {source}	Licença: {licence}. Origem: {source}
+	Only you can turn on downloading: click the button yourself. Agents can install once it is on.	Só o próprio utilizador pode ativar as transferências: clique no botão. Depois de ativadas, os agentes já podem instalar.
+	Remove Language Pack	Remover pacote de idioma
+	The spelling and hyphenation data WordCraft uses, and their licences.	Os dados de ortografia e hifenização que o WordCraft usa e as respetivas licenças.
+	{language} proofing isn't installed.	A verificação linguística de {language} não está instalada.
+	{n} KB	{n} KB
+	{n} MB	{n} MB
+	Add to AutoCorrect	Adicionar à autocorreção
+	AutoCorrect Options…	Opções de autocorreção…
+	Automatically as you type	Automaticamente ao escrever
+	Change to:	Alterar para:
+	Change…	Alterar…
+	Check Again	Verificar novamente
+	Ignore Once	Ignorar uma vez
+	More options	Mais opções
+	Not in Dictionary	Não está no dicionário
+	Suggestions	Sugestões
+	The document or selection changed. Check again to continue.	O documento ou a seleção mudou. Verifique novamente para continuar.
+	Inverse	Inversa
+	Missing Fonts	Tipos de letra em falta
+	Not installed — shown as	Não instalado — mostrado em
+	Shown in substitute fonts. Click for details.	Mostrado com tipos de letra substitutos. Clique para ver os detalhes.
+	{font} isn't installed on this computer, so its text is shown in {shown}. Line breaks and page count can differ from where the document was made. If you have the font file, add it with Add Font… at the end of this list.	O tipo de letra {font} não está instalado neste computador, por isso o texto é mostrado em {shown}. As quebras de linha e o número de páginas podem ser diferentes dos do computador onde o documento foi criado. Se tiver o ficheiro do tipo de letra, adicione-o com Adicionar tipo de letra… no fim desta lista.
+	Afrikaans	Africânder
+	Albanian	Albanês
+	Armenian	Arménio
+	Belarusian	Bielorrusso
+	Bosnian	Bósnio
+	Bulgarian	Búlgaro
+	Catalan	Catalão
+	Catalan (Valencian)	Catalão (valenciano)
+	Esperanto	Esperanto
+	Galician	Galego
+	Georgian	Georgiano
+	Hungarian	Húngaro
+	Icelandic	Islandês
+	Irish	Irlandês
+	Latvian	Letão
+	Lithuanian	Lituano
+	Macedonian	Macedónio
+	Norwegian (Nynorsk)	Norueguês (nynorsk)
+	Persian	Persa
+	Portuguese	Português
+	Slovak	Eslovaco
+	Slovenian	Esloveno
+	Swahili	Suaíli
+	Tamil	Tâmil
+	Thai	Tailandês
+	Vietnamese	Vietnamita
+	Welsh	Galês
+	U.A.E.	Emirados Árabes Unidos
+	Angola	Angola
+	Argentina	Argentina
+	Austria	Áustria
+	Australia	Austrália
+	Bosnia and Herzegovina	Bósnia e Herzegovina
+	Belgium	Bélgica
+	Bolivia	Bolívia
+	Brazil	Brasil
+	Belarus	Bielorrússia
+	Canada	Canadá
+	Switzerland	Suíça
+	Chile	Chile
+	China	China
+	Colombia	Colômbia
+	Costa Rica	Costa Rica
+	Cuba	Cuba
+	Cabo Verde	Cabo Verde
+	Cyprus	Chipre
+	Germany	Alemanha
+	Dominican Republic	República Dominicana
+	Ecuador	Equador
+	Egypt	Egito
+	Spain	Espanha
+	Finland	Finlândia
+	France	França
+	United Kingdom	Reino Unido
+	Equatorial Guinea	Guiné Equatorial
+	Guatemala	Guatemala
+	Hong Kong SAR	RAE de Hong Kong
+	Honduras	Honduras
+	Ireland	Irlanda
+	India	Índia
+	Iraq	Iraque
+	Italy	Itália
+	Jamaica	Jamaica
+	Jordan	Jordânia
+	Kuwait	Kuwait
+	Kazakhstan	Cazaquistão
+	Lebanon	Líbano
+	Liechtenstein	Liechtenstein
+	Luxembourg	Luxemburgo
+	Morocco	Marrocos
+	Monaco	Mónaco
+	Montenegro	Montenegro
+	Macao SAR	RAE de Macau
+	Mexico	México
+	Malaysia	Malásia
+	Mozambique	Moçambique
+	Nicaragua	Nicarágua
+	Netherlands	Países Baixos
+	New Zealand	Nova Zelândia
+	Panama	Panamá
+	Peru	Peru
+	Philippines	Filipinas
+	Puerto Rico	Porto Rico
+	Portugal	Portugal
+	Paraguay	Paraguai
+	Qatar	Catar
+	Russia	Rússia
+	Singapore	Singapura
+	El Salvador	El Salvador
+	Syria	Síria
+	Taiwan	Taiwan
+	Ukraine	Ucrânia
+	United States	Estados Unidos
+	Uruguay	Uruguai
+	Venezuela	Venezuela
+	South Africa	África do Sul
