@@ -3221,3 +3221,44 @@ preview	Title	Título
 	Uruguay	Uruguai
 	Venezuela	Venezuela
 	South Africa	África do Sul
+	Booklets: duplex on the short edge. Blank pages are added at the end.	Brochuras: frente e verso na margem curta. As páginas em branco são acrescentadas no fim.
+	Cancel printing	Cancelar impressão
+	Cancellation could not be confirmed here. The printer driver may still be processing the job. If it appears in the system's print queue, cancel it there.	Não foi possível confirmar o cancelamento aqui. O controlador da impressora pode ainda estar a processar o trabalho. Se este aparecer na fila de impressão do sistema, cancele-o aí.
+	Clear all	Limpar tudo
+	Column Edge	Limite da coluna
+	Could not save the preferences: {error}	Não foi possível guardar as preferências: {error}
+	Default format saved.	Formato predefinido guardado.
+	Display server:	Servidor de visualização:
+	Fit\nOne Page	Ajustar\nà página
+	Hidden text is not shown unless you display it.	O texto oculto não é apresentado enquanto não o mostrar.
+	Markdown Source	Fonte Markdown
+	Markdown Source takes up to 2 MB of text	A fonte Markdown suporta até 2 MB de texto
+	Mouse wheel scroll speed:	Velocidade de deslocamento com a roda do rato:
+	Next sheet	Folha seguinte
+	No other WordCraft windows are open.	Não há outras janelas do WordCraft abertas.
+	Nothing to redo	Nada para refazer
+	Nothing to undo	Nada para anular
+	On X11, the touchpad follows the mouse wheel speed.	No X11, o touchpad segue a velocidade da roda do rato.
+	Pages per sheet	Páginas por folha
+	Previous sheet	Folha anterior
+	Printing cancelled. Nothing was sent to the printer.	Impressão cancelada. Nada foi enviado para a impressora.
+	Remove from list	Remover da lista
+	Removed {count} documents from the recent list	{count} documentos removidos da lista de recentes
+	Removed {name} from the recent list	{name} removido da lista de recentes
+	Saved. Edits in the formatted view meant writing the Markdown out again, so its own layout wasn't kept.	Guardado. As alterações na vista formatada obrigaram a reescrever o Markdown, pelo que o seu próprio esquema não foi mantido.
+	Screen only. Document backgrounds, printing and exports keep their colours. Dark page and explicit Read Mode colours take precedence.	Apenas no ecrã. Os fundos do documento, a impressão e as exportações mantêm as suas cores. A página escura e as cores explícitas do Modo de leitura têm precedência.
+	Screen paper color:	Cor do papel no ecrã:
+	Set the colors in the Text Pane to use custom colors.	Defina as cores no Painel de texto para usar cores personalizadas.
+	Shape color	Cor da forma
+	Sheet {page} of {pages}	Folha {page} de {pages}
+	Status bar count:	Contagem na barra de estado:
+	Style Color	Cor do estilo
+	This document has content Markdown can't hold. Changing the text here removes it; one Undo afterwards brings it back.	Este documento tem conteúdo que o Markdown não consegue conter. Alterar o texto aqui remove-o; um Anular a seguir recupera-o.
+	Touchpad scroll speed:	Velocidade de deslocamento com o touchpad:
+	Type a size in any unit, such as 3 cm or 300 px.	Escreva um tamanho em qualquer unidade, como 3 cm ou 300 px.
+	Update automatically	Atualizar automaticamente
+	Updates are off in this window: WordCraft was started with another program's AppImage settings. Start WordCraft from its own menu entry to update it.	As atualizações estão desativadas nesta janela: o WordCraft foi iniciado com as definições de AppImage de outro programa. Inicie o WordCraft a partir da sua própria entrada de menu para o atualizar.
+	{chars} characters	{chars} caracteres
+	{chars} characters (no spaces)	{chars} caracteres (sem espaços)
+	{selected} of {chars} characters	{selected} de {chars} caracteres
+	{selected} of {chars} characters (no spaces)	{selected} de {chars} caracteres (sem espaços)
