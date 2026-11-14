@@ -248,7 +248,8 @@ administrative region.
 Three more names, Guinea-Bissau, São Tomé and Príncipe and Timor-Leste, are for the regions that write
 Portuguese like Portugal and had none, in the same 36 locales: Renato Pinto (@quebranozes) with
 Claude Code (Claude Opus 5.5), AI-assisted, written the same way, as each locale's usual short name.
-No native speaker has reviewed these three rows either.
+The `pt-br` rows were reviewed by Renato Pinto, a native Portuguese speaker; no native speaker has
+reviewed the other locales' rows.
 
 ## WordCraft: the Watermark dialog strings (storytold/wordcraft#5735)
 
